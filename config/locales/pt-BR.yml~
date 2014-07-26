@@ -1,0 +1,9 @@
+pt-BR:
+  helpers:
+    label:
+      user:
+        remember_me: Lembre me!
+        email: Seu email
+        password: Sua Senha
+        password_confirmation: Confirme sua senha
+        current_password: Sua senha usada
